@@ -4,7 +4,7 @@
 
 # Análise de preços de aluguel em São Paulo
 
-**Autor**: Cássio Luan de Oliveira Santos - 01898362
+**Autor**: Cássio Luan de Oliveira Santos 
 
 ***2º Período Ciência da Computação***
 
